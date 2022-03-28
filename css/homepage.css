@@ -1,0 +1,76 @@
+.btn{
+	margin: 5px;
+}
+body ,html{
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.nav-item button{
+    color: white;
+    background-color: #00b4d8;
+}
+.nav-item button:hover{
+    border-color: #0077b6;
+    color: white;
+    background: #03badfb6;
+}
+.btn-outline-success{
+    color: white;
+}
+.hero-image{
+    position: relative;
+    top: 50px;
+    height: 1200px;
+    background: url("../photo/Homepage/Lobby.png") no-repeat center;
+    background-size: cover;
+}
+.title{
+    display: inline-block;
+    font-size: 60px;
+    position: relative;
+    bottom: 50px;
+    font-family: 'Arimo', sans-serif;
+    text-shadow: 0 0 8px black;
+    color: white;
+}
+.lead{
+    display: block;
+    text-shadow: 0 0 8px black;
+    color: white;
+    position: relative;
+    bottom: 50px;
+    line-height: 60px;
+}
+.btnn{
+    position: relative;
+    bottom: 35px;
+    color: white;
+    padding: 10px 24px;
+    font-size: 20px;
+    text-decoration: none;
+    background: #00b4d8;
+    border-radius: 8px;
+    transition: 0.3s all;
+}
+.btnn:hover{
+    color: white;
+    opacity: 0.8;
+    background: #03badfb6;
+}
+.position{
+    float: right;
+    text-align: right;
+}
+.footerlogo{
+    position: relative;
+    top: 70px;
+}
+.hr{
+    color: black;
+}
+
+  
+  
+  
